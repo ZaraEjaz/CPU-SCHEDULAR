@@ -7,8 +7,8 @@ It is the process by which the system decides which task or process gets to use 
 
 # First-Come, First-Served (FCFS):
 # Shortest Job Next (SJN) / Shortest Job First (SJF):
-# Round Robin (RR):
-# Priority Scheduling:
+# Round Robin (RR)
+# Priority Scheduling
 # Multilevel Queue Scheduling:
 
 # Page Replacement
@@ -19,4 +19,4 @@ Page Replacement algorithms manage the contents of the memory by deciding which 
 # Least Recently Used (LRU)
 # Optimal Page Replacement
 # Second Chance (Clock)
-# Not Recently Used (NRU):
+# Not Recently Used (NRU)
